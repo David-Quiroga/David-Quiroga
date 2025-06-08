@@ -13,6 +13,7 @@ I am an undergraduate Software Development student. I’m skilled in JavaScript 
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a>dqdavudquiroga@gmail.com</a>
+- 📱 Phone: +593 998604564
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -51,7 +52,6 @@ I am an undergraduate Software Development student. I’m skilled in JavaScript 
 </div>
 <p align="center">
 	<a href="https://github.com/David-Quiroga"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/+593 998604564"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/david-sebastian-quiroga-ayala-b9a3b0277"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
