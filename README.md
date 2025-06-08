@@ -51,7 +51,7 @@ I am an undergraduate Software Development student. I’m skilled in JavaScript 
 </div>
 <p align="center">
 	<a href="https://github.com/David-Quiroga"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0998604564"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://wa.me/+593 998604564"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/david-sebastian-quiroga-ayala-b9a3b0277"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
